@@ -11,6 +11,12 @@ Welcome to my data portfolio where I document my projects in the data field.
   <li>Tableau</li>
 </ul>
 
+<h3>Data Science</h3>
+
+| Project link | Tools | Project Description |
+| -------------|-------|---------------------|
+| Content Cell | Content cell|Content cell   |
+
 <h3>Python</h3>
 
 | Project link | Tools | Project Description |
