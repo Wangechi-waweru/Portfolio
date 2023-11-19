@@ -5,9 +5,10 @@ Welcome to my data portfolio where I document my projects in the data field.
 <h3>Table of contents</h3>
 
 <ul>
-<li>Python </li>
-<li>SQL </li> 
-<li>Tableau </li>
+  <li>Data Science</li>
+  <li>Python</li>
+  <li>SQL</li> 
+  <li>Tableau</li>
 </ul>
 
 <h3>Python</h3>
