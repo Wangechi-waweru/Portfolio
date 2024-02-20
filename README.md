@@ -36,5 +36,6 @@ Welcome to my data portfolio where I document my projects in the data field.
 | Content Cell | Content cell|Content cell   |
 
 
-Practice Projects
-🐍[Python](https://github.com/Wangechi-waweru/PythonProjects)
+<h3>Practice Projects</h3>
+
+*🐍[Python](https://github.com/Wangechi-waweru/PythonProjects)
