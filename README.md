@@ -34,3 +34,7 @@ Welcome to my data portfolio where I document my projects in the data field.
 | Project link | Tools | Project Description |
 | -------------|-------|---------------------|
 | Content Cell | Content cell|Content cell   |
+
+
+Practice Projects
+🐍[Python](https://github.com/Wangechi-waweru/PythonProjects)
